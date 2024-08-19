@@ -1,3 +1,3 @@
-## A.P.E.X.
+## APX
 
 Accelerated Parallel Execution
